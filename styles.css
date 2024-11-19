@@ -1,0 +1,17 @@
+
+.card-title {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.card-subtitle {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+
+}
