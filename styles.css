@@ -1,3 +1,6 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 .card-title {
     text-align: center;
@@ -13,5 +16,22 @@
     display: flex;
     width: 100%;
     justify-content: space-around;
+    margin-top: 5%;
+}
 
+.card-body {
+    background-color: #f8f1dd;
+}
+
+.btn.btn-primary {
+    background-color: #E91E63;
+    justify-content: space-around;
+}
+
+.botão {
+    text-align: center;
+}
+
+.card-text {
+    text-align: justify;
 }
